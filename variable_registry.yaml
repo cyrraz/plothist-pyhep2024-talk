@@ -1,0 +1,39 @@
+variable_0:
+  name: variable_0
+  bins: 50
+  range:
+  - -10.55227774892869
+  - 10.04658448558009
+  label: variable_0
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+variable_1:
+  name: variable_1
+  bins: 50
+  range:
+  - -9.32198527389102
+  - 10.320677227899562
+  label: variable_1
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
+variable_2:
+  name: variable_2
+  bins: 50
+  range:
+  - -17.983319077507936
+  - 16.84354525625102
+  label: variable_2
+  log: false
+  legend_location: best
+  legend_ncols: 1
+  docstring: ''
+
+
