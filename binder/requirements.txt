@@ -1,4 +1,0 @@
-plothist==1.2.4
-notebook~=6.0
-jupyterlab~=4.0
-RISE

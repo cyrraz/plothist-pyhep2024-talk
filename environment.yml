@@ -1,0 +1,14 @@
+name: plothist_env
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11
+  - pip
+  - matplotlib
+  - boost-histogram
+  - scipy
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - pip:
+    - plothist == 1.2.4
+    - RISE
