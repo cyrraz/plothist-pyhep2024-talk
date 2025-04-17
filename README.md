@@ -2,7 +2,7 @@
 
 Talk on the [plothist](https://plothist.readthedocs.io/en/latest/index.html) package at the [PyHEP 2024](https://indico.cern.ch/event/1384010/contributions/5994315/) conference.
 
-- C. Praz and T. Fillinger, [*Plothist: visualize and compare data in a scalable way and a beautiful style*](https://indico.cern.ch/event/1384010/contributions/5994315/), Python in HEP, 2024.
+- C. Praz and T. Fillinger, [*Plothist: visualize and compare data in a scalable way and a beautiful style*](https://indico.cern.ch/event/1384010/contributions/5994315/), Python in High Energy Physics, 2024.
 
 All the notebooks in this repository are copied from the [example gallery](https://plothist.readthedocs.io/en/latest/example_gallery/index.html) of plothist. Please refer to the example gallery for more examples.
 
